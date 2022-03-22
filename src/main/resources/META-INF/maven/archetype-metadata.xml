@@ -5,7 +5,7 @@
             <defaultValue>.gitignore</defaultValue>
         </requiredProperty>
         <requiredProperty key="mantainer">
-            <defaultValue>stonarini@cifpfbmoll.eu</defaultValue>
+            <defaultValue>epardillo@cifpfbmoll.eu</defaultValue>
         </requiredProperty>
     </requiredProperties>
 
